@@ -9,3 +9,6 @@ This will be useful for the upcoming project.
 Spent some time studying Claude Code today.
 
 Understanding the 'why' behind this made everything clearer.
+
+
+<!-- fixed typo -->

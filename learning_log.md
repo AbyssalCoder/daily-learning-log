@@ -36,3 +36,9 @@ docker compose down
 Quick session on Docker Images today.
 
 The comparison between approaches was really helpful.
+
+## 2026-06-12
+
+Continued learning about Jules.
+
+Going to revisit this topic next week for deeper understanding.

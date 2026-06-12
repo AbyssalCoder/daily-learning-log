@@ -31,4 +31,8 @@ docker compose down
 
 <!-- updated examples -->
 
+## 2026-06-12
 
+Quick session on Docker Images today.
+
+The comparison between approaches was really helpful.

@@ -8,3 +8,10 @@ Topics covered today:
 - Docker Images
 - Nested Loops
 - Palindrome
+
+
+## Update — 2026-06-22
+
+Topics covered today:
+- Docker Networking
+- Selection Sort

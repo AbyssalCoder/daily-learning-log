@@ -54,3 +54,18 @@ print(binary_search(sorted_arr, 7))  # 3
 ```
 
 Requires sorted input. Time complexity: O(log n).
+
+## Bolt.new — Full-Stack App Generator
+
+Browser-based AI that generates and deploys full-stack apps.
+
+### Strengths
+- Generates complete projects (frontend + backend)
+- Deploys instantly
+- Uses WebContainers (runs Node.js in browser)
+- Great for prototyping
+
+### Limitations
+- Can struggle with complex requirements
+- Limited backend options
+- Code quality varies

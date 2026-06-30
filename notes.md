@@ -69,3 +69,21 @@ Browser-based AI that generates and deploys full-stack apps.
 - Can struggle with complex requirements
 - Limited backend options
 - Code quality varies
+
+## Git Rebase
+
+Rebase replays your commits on top of another branch.
+
+```bash
+git checkout feature
+git rebase main
+```
+
+### Merge vs Rebase
+| Merge                  | Rebase                  |
+|------------------------|-------------------------|
+| Creates merge commit   | Linear history          |
+| Preserves history      | Rewrites commit hashes  |
+| Safe for shared branch | Only for local branches |
+
+**Golden rule:** Never rebase commits that have been pushed to a shared branch.

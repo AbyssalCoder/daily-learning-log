@@ -87,3 +87,23 @@ git rebase main
 | Safe for shared branch | Only for local branches |
 
 **Golden rule:** Never rebase commits that have been pushed to a shared branch.
+
+## UDP — User Datagram Protocol
+
+- **Connectionless** — no handshake
+- **Unreliable** — no delivery guarantee
+- **Fast** — minimal overhead
+
+### Use cases
+- Video streaming
+- Online gaming
+- DNS queries
+- VoIP
+
+### TCP vs UDP
+| Feature      | TCP          | UDP          |
+|-------------|-------------|-------------|
+| Connection   | Yes          | No           |
+| Reliability  | Guaranteed   | Best effort  |
+| Speed        | Slower       | Faster       |
+| Ordering     | Yes          | No           |

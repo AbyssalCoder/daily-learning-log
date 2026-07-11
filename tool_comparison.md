@@ -88,3 +88,6 @@ gemini
 - Supports extensions (Google Search, etc.)
 
 Huge context window makes it good for analyzing large codebases.
+
+
+<!-- formatting -->

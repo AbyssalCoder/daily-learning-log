@@ -15,3 +15,11 @@ Topics covered today:
 Topics covered today:
 - Docker Networking
 - Selection Sort
+
+
+## Update — 2026-07-12
+
+Topics covered today:
+- Nested Loops
+- Palindrome
+- CI/CD Basics

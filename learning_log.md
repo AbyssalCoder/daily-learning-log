@@ -106,3 +106,9 @@ DNS translates domain names to IP addresses.
 nslookup example.com
 dig example.com A
 ```
+
+## 2026-07-12
+
+Today I focused on Claude Code.
+
+Connecting this to what I learned last week about related concepts.

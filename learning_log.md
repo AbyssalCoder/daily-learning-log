@@ -112,3 +112,6 @@ dig example.com A
 Today I focused on Claude Code.
 
 Connecting this to what I learned last week about related concepts.
+
+
+<!-- updated examples -->

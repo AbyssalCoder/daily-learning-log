@@ -140,3 +140,6 @@ dig example.com
 # Capture packets
 tcpdump -i eth0 port 80
 ```
+
+
+<!-- updated examples -->

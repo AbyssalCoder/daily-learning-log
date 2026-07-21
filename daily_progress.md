@@ -56,3 +56,9 @@ print(safe_divide(10, 0))
 
 
 <!-- fixed typo -->
+
+## 2026-07-21
+
+Practiced Factorial with some exercises.
+
+The comparison between approaches was really helpful.

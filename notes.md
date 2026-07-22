@@ -159,3 +159,6 @@ oco  # generates commit message from diff
 ```
 
 Follows conventional commit format. Saves time on writing descriptive messages.
+
+
+<!-- fixed typo -->

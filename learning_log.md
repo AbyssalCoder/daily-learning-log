@@ -167,3 +167,9 @@ docker run -p 8080:8080 my-app:1.0
 ```
 
 Each instruction creates a layer — order matters for cache efficiency.
+
+## 2026-07-25
+
+Spent some time studying Windsurf today.
+
+Need to practice this more — the edge cases tripped me up.

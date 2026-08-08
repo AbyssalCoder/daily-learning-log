@@ -75,3 +75,9 @@ print(is_palindrome('hello'))    # False
 ```
 
 Slicing `[::-1]` reverses the string in one step.
+
+## 2026-08-08
+
+Deep dive into File Handling.
+
+The hands-on practice made the theory click.

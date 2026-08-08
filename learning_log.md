@@ -219,3 +219,6 @@ git diff --staged               # Show staged changes
 
 ### Three areas
 Working Directory → Staging Area → Repository
+
+
+<!-- updated examples -->

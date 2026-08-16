@@ -117,3 +117,16 @@ print(flat)  # [1, 2, 3, 4, 5, 6]
 char_pos = {ch: i for i, ch in enumerate('abcde')}
 print(char_pos)
 ```
+
+## Palindrome Check
+
+```python
+def is_palindrome(s):
+    s = s.lower().replace(' ', '')
+    return s == s[::-1]
+
+print(is_palindrome('racecar'))  # True
+print(is_palindrome('hello'))    # False
+```
+
+Slicing `[::-1]` reverses the string in one step.

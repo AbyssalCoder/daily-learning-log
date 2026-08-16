@@ -130,3 +130,6 @@ print(is_palindrome('hello'))    # False
 ```
 
 Slicing `[::-1]` reverses the string in one step.
+
+
+<!-- fixed typo -->

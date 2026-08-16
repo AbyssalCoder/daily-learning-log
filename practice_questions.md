@@ -133,3 +133,6 @@ Slicing `[::-1]` reverses the string in one step.
 
 
 <!-- fixed typo -->
+
+
+<!-- updated examples -->

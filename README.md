@@ -23,3 +23,11 @@ Topics covered today:
 - Nested Loops
 - Palindrome
 - CI/CD Basics
+
+
+## Update — 2026-08-18
+
+Topics covered today:
+- Caching
+- Binary Search Basics
+- CI/CD Basics

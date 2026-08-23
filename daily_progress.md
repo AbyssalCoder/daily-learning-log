@@ -98,3 +98,9 @@ print(sieve(100))
 ```
 
 Efficient for generating all primes up to a limit. Runs in O(n log log n).
+
+## 2026-08-23
+
+Explored Docker Networking — here are my notes.
+
+This will be useful for the upcoming project.

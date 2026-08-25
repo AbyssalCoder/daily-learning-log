@@ -104,3 +104,6 @@ Huge context window makes it good for analyzing large codebases.
 - Cascade is more autonomous than Cursor's Composer
 - Windsurf feels more guided, Cursor more manual
 - Both are VS Code forks
+
+
+<!-- updated examples -->

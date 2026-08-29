@@ -33,3 +33,8 @@ Topics covered today:
 - CI/CD Basics
 
 
+## Update — 2026-08-29
+
+Topics covered today:
+- HTTP
+- REST APIs

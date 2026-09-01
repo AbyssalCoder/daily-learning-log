@@ -29,3 +29,25 @@ Distribute incoming traffic across multiple servers.
 - L7: routes based on HTTP content (smarter)
 
 Tools: Nginx, HAProxy, AWS ALB/NLB
+
+## Network Monitoring Commands
+
+```bash
+# Check connectivity
+ping google.com
+
+# Trace route to host
+traceroute google.com   # Linux
+tracert google.com      # Windows
+
+# View active connections
+netstat -tuln
+ss -tuln                # modern alternative
+
+# DNS lookup
+nslookup example.com
+dig example.com
+
+# Capture packets
+tcpdump -i eth0 port 80
+```

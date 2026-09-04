@@ -38,3 +38,10 @@ Topics covered today:
 Topics covered today:
 - HTTP
 - REST APIs
+
+
+## Update — 2026-09-04
+
+Topics covered today:
+- JWT Authentication
+- Network Monitoring

@@ -45,3 +45,12 @@ Topics covered today:
 Topics covered today:
 - JWT Authentication
 - Network Monitoring
+
+
+## Update — 2026-09-11
+
+Topics covered today:
+- Docker Volumes
+- Prime Number
+- GitHub Actions
+- Selection Sort

@@ -104,3 +104,9 @@ Efficient for generating all primes up to a limit. Runs in O(n log log n).
 Explored Docker Networking — here are my notes.
 
 This will be useful for the upcoming project.
+
+## 2026-09-11
+
+Went through File Handling concepts and examples.
+
+Need to practice this more — the edge cases tripped me up.

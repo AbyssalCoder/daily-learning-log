@@ -57,3 +57,10 @@ Topics covered today:
 
 
 <!-- fixed typo -->
+
+
+## Update — 2026-09-17
+
+Topics covered today:
+- Python OOP Basics
+- Docker Volumes

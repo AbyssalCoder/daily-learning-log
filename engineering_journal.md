@@ -21,3 +21,6 @@ Connecting this to what I learned last week about related concepts.
 Practiced Subnetting Basics with some exercises.
 
 This was surprisingly intuitive once I understood the fundamentals.
+
+
+<!-- fixed typo -->

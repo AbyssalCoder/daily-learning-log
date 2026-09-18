@@ -24,3 +24,6 @@ This was surprisingly intuitive once I understood the fundamentals.
 
 
 <!-- fixed typo -->
+
+
+<!-- snippet correction -->

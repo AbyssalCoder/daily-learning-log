@@ -15,3 +15,9 @@ Still need to work on the implementation details.
 Went through Selection Sort concepts and examples.
 
 Connecting this to what I learned last week about related concepts.
+
+## 2026-09-18
+
+Practiced Subnetting Basics with some exercises.
+
+This was surprisingly intuitive once I understood the fundamentals.

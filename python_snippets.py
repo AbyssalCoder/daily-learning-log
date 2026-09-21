@@ -59,3 +59,14 @@ print(freq)  # {'the': 3, 'cat': 2, 'sat': 1, 'on': 1, 'mat': 1}
 from collections import Counter
 print(Counter(text.split()))
 ```
+
+## Nested Loop — Multiplication Table
+
+```python
+for i in range(1, 6):
+    for j in range(1, 11):
+        print(f'{i} x {j} = {i*j}')
+    print('---')
+```
+
+Useful for practising nested iteration and formatting.

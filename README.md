@@ -64,3 +64,10 @@ Topics covered today:
 Topics covered today:
 - Python OOP Basics
 - Docker Volumes
+
+
+## Update — 2026-09-26
+
+Topics covered today:
+- List Comprehensions
+- Reverse Number

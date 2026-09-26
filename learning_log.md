@@ -365,4 +365,19 @@ jobs:
 
 Workflows live in `.github/workflows/` and trigger on events.
 
+## VLAN Basics
 
+A Virtual LAN segments a physical network into logical groups.
+
+### Why VLANs?
+- Reduce broadcast domains
+- Improve security (isolate departments)
+- Simplify network management
+
+### Types
+- **Data VLAN** — regular user traffic
+- **Voice VLAN** — VoIP traffic priority
+- **Management VLAN** — switch management
+- **Native VLAN** — untagged trunk traffic
+
+VLAN tagging uses IEEE 802.1Q standard.

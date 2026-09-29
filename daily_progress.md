@@ -133,3 +133,9 @@ print(sieve(100))
 ```
 
 Efficient for generating all primes up to a limit. Runs in O(n log log n).
+
+## 2026-09-29
+
+Deep dive into Docker Compose.
+
+Connecting this to what I learned last week about related concepts.

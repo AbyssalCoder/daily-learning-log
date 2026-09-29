@@ -362,3 +362,14 @@ with open('output.txt', 'r') as f:
 ```
 
 Always use `with` statements — they handle closing automatically.
+
+## Nested Loop — Multiplication Table
+
+```python
+for i in range(1, 6):
+    for j in range(1, 11):
+        print(f'{i} x {j} = {i*j}')
+    print('---')
+```
+
+Useful for practising nested iteration and formatting.

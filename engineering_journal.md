@@ -27,3 +27,9 @@ This was surprisingly intuitive once I understood the fundamentals.
 
 
 <!-- snippet correction -->
+
+## 2026-10-03
+
+Quick session on Palindrome today.
+
+Understanding the 'why' behind this made everything clearer.

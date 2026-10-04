@@ -20,3 +20,10 @@
 - W3Schools: https://www.w3schools.com/
 - freeCodeCamp: https://www.freecodecamp.org/
 - Python docs: https://docs.python.org/3/
+
+## Resources — 2026-10-04
+
+### Useful links for Factorial
+
+- Docker docs: https://docs.docker.com/
+- LeetCode: https://leetcode.com/

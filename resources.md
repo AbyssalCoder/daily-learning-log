@@ -27,3 +27,11 @@
 
 - Docker docs: https://docs.docker.com/
 - LeetCode: https://leetcode.com/
+
+## Resources — 2026-10-06
+
+### Useful links for Palindrome
+
+- Real Python: https://realpython.com/
+- Git documentation: https://git-scm.com/doc
+- freeCodeCamp: https://www.freecodecamp.org/

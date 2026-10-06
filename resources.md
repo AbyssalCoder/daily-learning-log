@@ -35,3 +35,6 @@
 - Real Python: https://realpython.com/
 - Git documentation: https://git-scm.com/doc
 - freeCodeCamp: https://www.freecodecamp.org/
+
+
+<!-- formatting -->

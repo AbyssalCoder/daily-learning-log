@@ -171,3 +171,6 @@ def is_palindrome(s):
 ```
 
 Runs in O(n/2) comparisons with O(1) extra space.
+
+
+<!-- formatting -->

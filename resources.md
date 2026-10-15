@@ -38,3 +38,12 @@
 
 
 <!-- formatting -->
+
+## Resources — 2026-10-15
+
+### Useful links for Git Branching
+
+- Git documentation: https://git-scm.com/doc
+- LeetCode: https://leetcode.com/
+- MDN Web Docs: https://developer.mozilla.org/
+- W3Schools: https://www.w3schools.com/

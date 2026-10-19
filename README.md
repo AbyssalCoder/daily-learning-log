@@ -74,3 +74,10 @@ Topics covered today:
 
 
 <!-- indent fix -->
+
+
+## Update — 2026-10-19
+
+Topics covered today:
+- Nested Loops
+- String Questions

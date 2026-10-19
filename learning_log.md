@@ -387,3 +387,9 @@ VLAN tagging uses IEEE 802.1Q standard.
 Practiced DNS Resolution with some exercises.
 
 Connecting this to what I learned last week about related concepts.
+
+## 2026-10-19
+
+Deep dive into Aider.
+
+Going to revisit this topic next week for deeper understanding.

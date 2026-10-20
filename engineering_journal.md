@@ -33,3 +33,9 @@ This was surprisingly intuitive once I understood the fundamentals.
 Quick session on Palindrome today.
 
 Understanding the 'why' behind this made everything clearer.
+
+## 2026-10-20
+
+Deep dive into VLAN Basics.
+
+Understanding the 'why' behind this made everything clearer.

@@ -53,3 +53,12 @@
 
 
 <!-- indent fix -->
+
+## Resources — 2026-10-23
+
+### Useful links for Fibonacci
+
+- Nginx docs: https://nginx.org/en/docs/
+- W3Schools: https://www.w3schools.com/
+- Python docs: https://docs.python.org/3/
+- MDN Web Docs: https://developer.mozilla.org/

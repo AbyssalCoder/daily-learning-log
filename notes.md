@@ -450,3 +450,6 @@ Fork of VS Code with deep AI integration.
 | 1     | Physical     | Cables, Signals     |
 
 **Mnemonic:** Please Do Not Throw Sausage Pizza Away (bottom-up)
+
+
+<!-- formatting -->

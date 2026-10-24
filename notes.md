@@ -453,3 +453,6 @@ Fork of VS Code with deep AI integration.
 
 
 <!-- formatting -->
+
+
+<!-- updated examples -->

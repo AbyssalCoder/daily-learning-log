@@ -419,3 +419,6 @@ Going to revisit this topic next week for deeper understanding.
 | Reliability  | Guaranteed   | Best effort  |
 | Speed        | Slower       | Faster       |
 | Ordering     | Yes          | No           |
+
+
+<!-- snippet correction -->

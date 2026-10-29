@@ -87,3 +87,10 @@ Topics covered today:
 
 
 <!-- updated examples -->
+
+
+## Update — 2026-10-29
+
+Topics covered today:
+- JWT Authentication
+- Dictionary Practice

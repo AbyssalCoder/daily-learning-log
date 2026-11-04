@@ -68,3 +68,25 @@ Both sides must agree on initial sequence numbers to guarantee reliable, ordered
 FIN → ACK → FIN → ACK
 
 TCP is **connection-oriented** and **reliable** — it retransmits lost segments.
+
+## Network Monitoring Commands
+
+```bash
+# Check connectivity
+ping google.com
+
+# Trace route to host
+traceroute google.com   # Linux
+tracert google.com      # Windows
+
+# View active connections
+netstat -tuln
+ss -tuln                # modern alternative
+
+# DNS lookup
+nslookup example.com
+dig example.com
+
+# Capture packets
+tcpdump -i eth0 port 80
+```

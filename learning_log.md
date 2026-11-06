@@ -422,3 +422,9 @@ Going to revisit this topic next week for deeper understanding.
 
 
 <!-- snippet correction -->
+
+## 2026-11-06
+
+Explored Docker Basics — here are my notes.
+
+The comparison between approaches was really helpful.

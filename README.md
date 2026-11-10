@@ -94,3 +94,11 @@ Topics covered today:
 Topics covered today:
 - JWT Authentication
 - Dictionary Practice
+
+
+## Update — 2026-11-10
+
+Topics covered today:
+- UDP
+- Docker Compose
+- Factorial

@@ -473,3 +473,9 @@ jobs:
 ```
 
 Workflows live in `.github/workflows/` and trigger on events.
+
+## 2026-11-23
+
+Went through Exception Handling concepts and examples.
+
+Need to practice this more — the edge cases tripped me up.

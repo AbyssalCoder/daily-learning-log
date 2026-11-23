@@ -491,3 +491,18 @@ Always use nouns for resources, not verbs.
 | /28  | 255.255.255.240 | 14    |
 
 Usable hosts = 2^(32 - prefix) - 2
+
+## Bolt.new — Full-Stack App Generator
+
+Browser-based AI that generates and deploys full-stack apps.
+
+### Strengths
+- Generates complete projects (frontend + backend)
+- Deploys instantly
+- Uses WebContainers (runs Node.js in browser)
+- Great for prototyping
+
+### Limitations
+- Can struggle with complex requirements
+- Limited backend options
+- Code quality varies
